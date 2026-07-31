@@ -52,4 +52,4 @@
 - [Microsoft 365 Copilotのライセンスオプション](https://learn.microsoft.com/ja-jp/microsoft-365/copilot/microsoft-365-copilot-licensing)
 - [Microsoft 365 Copilot Chatのよくある質問](https://learn.microsoft.com/ja-jp/copilot/faq)
 
-まずは、[演習環境を準備する](./00_演習環境を準備する.md)へ進んでください。
+まずは、[演習環境を準備する](./LabManual/Lab00-Preparing.md)へ進んでください。
