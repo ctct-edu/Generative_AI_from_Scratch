@@ -11,11 +11,11 @@
 | 順番 | 演習 | 対応する研修テキスト | 時間 |
 |---:|---|---|---:|
 | 0 | [演習環境を準備する](./LabManual/Lab00-Preparing.md) | 全章共通 | 5分 |
-| 1 | [Lab 01：文章と画像を生成する](./LabManual/Lab01-Generate_text_and_images.md) | 第1章 AIの基本から生成AIの現在地まで | 15分 |
-| 2 | [Lab 02：プロンプトを改善する](./LabManual/Lab02-Improving_prompts.md) | 第2章 生成AIにうまくお願いする方法 | 20分 |
-| 3 | [Lab 03：生成結果を安全に確認する](./LabManual/Lab03-Safely_Reviewing.md) | 第3章 生成AIを賢く、安全に使う | 15分 |
-| 4 | [Lab 04a：生成AIで業務文書を作成する](./LabManual/Lab04a-Creating_business_documents.md) | 第4章 生成AIの面白い使い方 | 15分 |
-| 5 | [Lab 04b：日常生活と身近な業務で活用する](./LabManual/Lab04b-Use_in_daily_life_eday_work.md) | 第5章 日常生活と身近な業務で活用する | 15分 |
+| 1 | [Lab 01：文章と画像を生成する](./LabManual/Lab01-Generate_text_and_images.md) | Chapter 1 「AIって色々あります - AIの基本から生成AIの現在地まで」 | 15分 |
+| 2 | [Lab 02：プロンプトを改善する](./LabManual/Lab02-Improving_prompts.md) | Chapter 2 「生成AIにうまくお願いする方法 - 生成AIへの「仕事の頼み方」を学ぶ」 | 20分 |
+| 3 | [Lab 03：生成結果を安全に確認する](./LabManual/Lab03-Safely_Reviewing.md) | Chapter 3 「生成AIを賢く、安全に使う - 便利さとリスクを一緒に考える」 | 15分 |
+| 4 | [Lab 04a：生成AIで業務文書を作成する](./LabManual/Lab04a-Creating_business_documents.md) | Chapter 4 「生成AIの面白い使い方 - 生成AIを日常と仕事の成果へつなげる」 | 15分 |
+| 5 | [Lab 04b：日常生活と身近な業務で活用する](./LabManual/Lab04b-Use_in_daily_life_eday_work.md) | Chapter 4 「生成AIの面白い使い方 - 生成AIを日常と仕事の成果へつなげる」 | 15分 |
 
 ## 使用する環境
 
