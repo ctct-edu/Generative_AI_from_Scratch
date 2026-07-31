@@ -139,4 +139,4 @@
 
 **Lab 03は以上です。**
 
-次は、[Lab 04：生成AIで業務文書を作成する](./Lab04a-Creating_business_documents.md)へ進みます。
+次は、[Lab 04a：生成AIで業務文書を作成する](./Lab04a-Creating_business_documents.md)へ進みます。
