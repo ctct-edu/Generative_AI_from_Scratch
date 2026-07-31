@@ -198,4 +198,4 @@
 
 **Lab 02は以上です。**
 
-次は、[Lab 03：生成結果を安全に確認する](./Lab03_Lab03-Safely_Reviewing.md)へ進みます。
+次は、[Lab 03：生成結果を安全に確認する](./Lab03-Safely_Reviewing.md)へ進みます。
