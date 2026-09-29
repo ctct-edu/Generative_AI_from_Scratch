@@ -44,6 +44,7 @@
 - [AWSの生成AIサービスを選ぶ](https://docs.aws.amazon.com/generative-ai-on-aws-how-to-choose/) — **AWS／英語**：すぐに使えるAI支援サービス、基盤モデルを利用するサービス、AIを開発する基盤の違いを俯瞰できます。
 - [Amazon Bedrockの概要](https://docs.aws.amazon.com/bedrock/latest/userguide/what-is-bedrock.html) — **AWS／英語・技術者向け**：複数企業の基盤モデルを選び、生成AIアプリケーションを構築するマネージドサービスの概要を確認できます。
 - [Claudeモデルの概要](https://platform.claude.com/docs/en/about-claude/models/overview) — **Anthropic／英語・技術者向け**：Claudeのモデル群について、能力、速度、コンテキスト長、利用できるプラットフォームなどの違いを確認できます。
+- [Arena](https://arena.ai/) — LLMを様々な方法で比較することができるプラットフォームです。GPTモデルやClaudeモデルをはじめとして、様々なモデル間での出力結果を比較して見ることができます。
 
 ---
 
@@ -57,6 +58,7 @@
 - [Copilotプロンプトギャラリーについて](https://learn.microsoft.com/ja-jp/microsoft-365/copilot/copilot-prompt-gallery) — **Microsoft／日本語**：Microsoftが用意したプロンプト例を探し、保存、調整、共有するための考え方を確認できます。
 - [Prompt engineering](https://developers.openai.com/api/docs/guides/prompt-engineering) — **OpenAI／英語・技術者向け**：指示の優先順位、関連する背景情報、例示、再利用可能なプロンプトなど、回答を制御する基本技法を確認できます。
 - [プロンプト設計戦略](https://ai.google.dev/gemini-api/docs/prompting-strategies) — **Google／英語**：明確な指示、少数例、背景情報、入力の構造化、複雑な作業の分割などを具体例付きで学べます。
+- [Prompt Engineering Guide](https://www.promptingguide.ai/jp) — **DAIR.AIプロジェクト**：様々なプロンプトエンジニアリング手法に加えて、生成AIに関する概念やモデルについて学べます。
 
 ### さらに知る
 
