@@ -2,7 +2,7 @@
 
 このリンク集は、「ゼロから始める生成AI」の各章に対応する公式資料をまとめたものです。研修内容を復習するときや、サービスの機能、利用条件、法制度の最新情報を確認するときに使用してください。
 
-> **情報確認日: 2026年8月4日**
+> **情報確認日: 既存リンクは2026年8月4日、演習拡充で追加した第2章のリンクは2026年9月29日**
 >
 > 生成AIサービスの名称、機能、利用条件、料金、データの取り扱い、法制度は更新される可能性があります。実際に利用するときは、リンク先の最新版と所属組織の規程を確認してください。
 >
@@ -44,7 +44,6 @@
 - [AWSの生成AIサービスを選ぶ](https://docs.aws.amazon.com/generative-ai-on-aws-how-to-choose/) — **AWS／英語**：すぐに使えるAI支援サービス、基盤モデルを利用するサービス、AIを開発する基盤の違いを俯瞰できます。
 - [Amazon Bedrockの概要](https://docs.aws.amazon.com/bedrock/latest/userguide/what-is-bedrock.html) — **AWS／英語・技術者向け**：複数企業の基盤モデルを選び、生成AIアプリケーションを構築するマネージドサービスの概要を確認できます。
 - [Claudeモデルの概要](https://platform.claude.com/docs/en/about-claude/models/overview) — **Anthropic／英語・技術者向け**：Claudeのモデル群について、能力、速度、コンテキスト長、利用できるプラットフォームなどの違いを確認できます。
-- [Arena](https://arena.ai/) — LLMを様々な方法で比較することができるプラットフォームです。GPTモデルやClaudeモデルをはじめとして、様々なモデル間での出力結果を比較して見ることができます。
 
 ---
 
@@ -58,7 +57,6 @@
 - [Copilotプロンプトギャラリーについて](https://learn.microsoft.com/ja-jp/microsoft-365/copilot/copilot-prompt-gallery) — **Microsoft／日本語**：Microsoftが用意したプロンプト例を探し、保存、調整、共有するための考え方を確認できます。
 - [Prompt engineering](https://developers.openai.com/api/docs/guides/prompt-engineering) — **OpenAI／英語・技術者向け**：指示の優先順位、関連する背景情報、例示、再利用可能なプロンプトなど、回答を制御する基本技法を確認できます。
 - [プロンプト設計戦略](https://ai.google.dev/gemini-api/docs/prompting-strategies) — **Google／英語**：明確な指示、少数例、背景情報、入力の構造化、複雑な作業の分割などを具体例付きで学べます。
-- [Prompt Engineering Guide](https://www.promptingguide.ai/jp) — **DAIR.AIプロジェクト**：様々なプロンプトエンジニアリング手法に加えて、生成AIに関する概念やモデルについて学べます。
 
 ### さらに知る
 
@@ -68,6 +66,9 @@
 - [Gemini API Prompt Gallery](https://ai.google.dev/gemini-api/prompts) — **Google／英語**：分類、要約、抽出、文章作成など、目的別の公式プロンプト例を参照できます。
 - [Amazon Bedrockのプロンプトエンジニアリング概念](https://docs.aws.amazon.com/bedrock/latest/userguide/prompt-engineering-guidelines.html) — **AWS／英語・技術者向け**：指示、コンテキスト、入力データ、出力指示を組み合わせる基本構造を確認できます。
 - [プロンプトエンジニアリングとは](https://docs.aws.amazon.com/bedrock/latest/userguide/what-is-prompt-engineering.html) — **AWS／英語**：プロンプトエンジニアリングの目的と、ゼロショット、少数例、思考を促す手法などの用語を整理できます。
+- [ゴールシークプロンプトの考え方](https://note.com/shunsuke_ai/n/nfa6e3170c35c) — **林駿甫氏／日本語**：シュンスケ式の考案者本人による、曖昧なゴールから対話で成果物へ進む考え方です。演習では初学者向けに一問ずつの質問へ簡略化しています。
+- [林駿甫氏の公式プロフィール](https://www.miyabi-ai.jp/about) — **考案者本人／日本語**：ゴールシークプロンプトとシュンスケ式Prompt Designの名称・考案者を確認できます。
+- [Microsoft Prompt Engineering](https://github.com/microsoft/prompt-engineering/blob/main/docs/index.md) — **Microsoft／英語**：zero-shot、one-shot、few-shotの違いと、少数の例を提示する方法を確認できます。
 
 ---
 
